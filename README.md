@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 
+My name is Lisa, and I'm so excited to join the github community, I simply cannot wait to explore more 😆!!
+
+
+- 🔭 I’m currently working on the backend of a real-time location-based application.
+- 🌱 I’m currently learning things about artifical intelligence.
+- 👯 I’m looking to collaborate on open source projects that focus on applications utilizing artificial intelligence.
 
 <!--
 **lisabuilds/lisabuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
