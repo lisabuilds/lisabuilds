@@ -1,3 +1,5 @@
-My current interests are:
-- production-level RAGs
-- progressively enhancing agents' expertises by assimilating learnings from past experiences into current knowledge bases
+What I am doing:
+Building agents.
+
+What I like to talk about:
+AI interpretability, Quantum Physics, Consciousness
